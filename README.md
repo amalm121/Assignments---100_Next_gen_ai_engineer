@@ -1,1 +1,1 @@
-Sequential Agentic Workflows using LangGraph
+Hybrid Agentic Workflows using LangGraph
